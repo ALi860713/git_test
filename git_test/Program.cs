@@ -10,6 +10,7 @@ namespace git_test
     {
         static void Main(string[] args)
         {
+            var test = "a+b";
             var a = "a";
             var b = "b";
             Console.Write(a + b);
