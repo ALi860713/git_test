@@ -11,6 +11,7 @@ namespace git_test
         static void Main(string[] args)
         {
             var test = "a+b";
+            var test2 = "b=a";
             var a = "a";
             var b = "b";
             Console.Write(a + b);
