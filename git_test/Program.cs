@@ -10,6 +10,7 @@ namespace git_test
     {
         static void Main(string[] args)
         {
+            var member = "member";
             var test = "a+b";
             var test2 = "b=a";
             var a = "a";
