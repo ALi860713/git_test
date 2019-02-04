@@ -19,7 +19,8 @@ namespace git_test
             Console.ReadLine();
             Console.WriteLine("Please Checkout the brach");
             Console.WriteLine("Finish 002 feature");
-            Console.WriteLine("Finish 003 feature");
+            Console.WriteLine("Finish 003 feature333");
+            Console.WriteLine("Finish 004 feature");
         }
     }
 }
