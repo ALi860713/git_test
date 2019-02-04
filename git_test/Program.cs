@@ -17,6 +17,7 @@ namespace git_test
             var b = "b";
             Console.Write(a + b);
             Console.ReadLine();
+            Console.WriteLine("Please Checkout the brach");
         }
     }
 }
