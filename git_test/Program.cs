@@ -13,8 +13,8 @@ namespace git_test
             var member = "member";
             var test = "a+b";
             var test2 = "b=a";
-            var a = "a";
-            var b = "b";
+            var a = "b";
+            var b = "aaaaaa";
             Console.Write(a + b);
             Console.ReadLine();
             Console.WriteLine("Please Checkout the brach");
